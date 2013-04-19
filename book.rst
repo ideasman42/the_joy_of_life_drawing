@@ -801,16 +801,17 @@ surface, be it a cartridge pad or a wad of newspaper stapled together ,will prod
 
 greater subtleties with pencil stokes with less pressure required.
 
-=Preplanning= ,,,,for drawing a visually well proportioned drawing of your model
+
+Preplanning
+-----------
+
+For drawing a visually well proportioned drawing of your model
 (one method among many variations)
 
-Take some deep breaths, look closely at your model and anticipate =what=you wish
+Take some deep breaths, look closely at your model and anticipate *what* you wish to draw and *how*
+(ie. loose line image, straight line, a mass of tone etc).
 
-to draw and =how= (ie. loose line image.,straight line, a mass of tone etc). Due to the
-
-diversity of models body shapes, one mode of drawing may suit a model more than
-
-another.
+Due to the diversity of models body shapes, one mode of drawing may suit a model more than another.
 
 The longer the pose, the more ground work one may do. With experience ,the
 
@@ -948,7 +949,7 @@ Image..'.Patsy with violin'........10 minute pose...February 2006
 
 Page 8 Life Drawing Session 2 continued.....Positive and Negative Space.
 
-The term 'positive and negative space' means to "block in" ( shade or render )
+The term 'positive and negative space' means to "block in" (shade or render)
 the space around the figure, rather than draw the figure with line work ie the spaces and shapes around our model are rendered here with as much interest as spaces and shapes that go to make up her form...The image below was achieved with broad strokes using 6B graphite block, and applying pressure on one edge of the block to create dark to a light tonal area in one sweep.
 
 'Seated figure in an arm chair '..1st June 2009
@@ -1038,7 +1039,7 @@ Page 19
 Using the broad edge of the Graphite Block, and applying pressure to
 one end more than the other, I travelled around my model ? form using broad 'dark to light strokes'. These sweeps of my wrist were considered, not anxiously hurried. Outlines were drawn in afterwards...., were left loose, general, and essentially gestural, an abbreviated contour , and deliberately incomplete.
 
-Because the model ( Ed' illustrated below) was in a crouching position, the whole form was encapsulated easily during this 5 minute pose.
+Because the model (Ed' illustrated below) was in a crouching position, the whole form was encapsulated easily during this 5 minute pose.
 
 Illustration...Ed'.....5 minute pose.........Sept 2004
 
@@ -1069,7 +1070,7 @@ Session 9: 'Tone only' Drawing
 --------------------------------
 Page 23
 
-#. Using the edge of my graphite block ( broad edge, not pointy end, I worked from the centre ( spine ) outwards.
+#. Using the edge of my graphite block (broad edge, not pointy end, I worked from the centre (spine) outwards).
 #. Be ginning at the hips, I created a contour of the body , working away from the edge to create background tone, still using the broad edge of my graphite block.
 #. I finished off with the pointy end of the graphite block to create details of hair strands, eye brows, eyes, ears and toes.
 
@@ -1079,7 +1080,7 @@ Page 23
 
 Page 24...More examples of tone only drawing......
 
-Illustration 1...Bob Wood: Life Drawing instructor at Caulfield Institute of Technology gave me his interpretation of the model ( Bill ) using tone only,
+Illustration 1...Bob Wood: Life Drawing instructor at Caulfield Institute of Technology gave me his interpretation of the model (Bill) using tone only,
 showing me that I could achieve greater subtlety using conte ' to create more
 life like detailing......as a mature age student in 1973 I appreciated Bob ? 10 - 15 minutes of attention as he cruised the studio...
 
@@ -1107,7 +1108,7 @@ Fig 4.....'Chrys Seated'.............July 1998.........20 minute pose
 
 Page 27....continued ....Background as Important as the Model.
 
-Fig 5.....'Mar Seated ' ( rear view ).....October 1998.....20 minute pose
+Fig 5.....'Mar Seated ' (rear view).....October 1998.....20 minute pose
 
 Fig 6....'Si Seated'..........................September 1998....20 minute pose
 
@@ -1127,7 +1128,7 @@ for a 10 , 15 , or 20 minute pose to come around to attempt a face,...and or
 upper body drawing,
 Some "settings"are well lit , and light is cast in such a way as to bring out the
 features of the model clearly. Very often though, as artists we tend to
-exaggerate a little ( ie Shadows a little darker ) to give greater depth to our models feature ?, as I have done here.
+exaggerate a little (ie Shadows a little darker) to give greater depth to our models feature ?, as I have done here.
 As well as broad edged 6B graphite block, I've also used 2B Progresso (lead pencil)
 to cross hatch render the cheeks and define the eyes and mouth. Though her hair was cut interestingly short, I chose to keep its definition brief.
 Shadows to the underside of the Bosom region gives balance to the dark regions of face and neck.
