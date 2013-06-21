@@ -37,13 +37,13 @@ architecture, teaching and creating fine art has largely been carried
 out in the Geelong environs (state of Victoria), while living with
 his family, all of whom have exhibited artwork locally.
 
-His architecture exudes a coastal contemporary ambience, often
+His architecture exudes a coastal contemporary ambiance, often
 incorporating adobe (mud brick and rammed earth) walling.
 
 Houses he has designed may be found in Western Australia,
 Queensland, New South Wales and Victoria.
 
-Interpreting the Masters: Cezanne, Rembrandt, Van Gough and others
+Interpreting the Masters: Cezanne, Rembrandt, Van Gogh and others
 from the tender age of 10, John learned the fundamentals and subtleties
 of working in oils. In recent years he has focused on Figurative Drawing
 and Portraiture, becoming an exponent of Block Graphite and Pastel on
@@ -59,7 +59,7 @@ John's drawings and paintings are to be found in public and private collections.
 
 
 .. image:: images/ldb_02a.png
-   :width: 40%
+   :width: 30%
    :align: right
 
 
@@ -118,14 +118,6 @@ John Barton
 The "Drawing" Autobiography
 ===========================
 
-.. image:: images/ldb_04a.png
-   :width: 20%
-   :align: left
-
-.. image:: images/ldb_04b.png
-   :width: 20%
-   :align: right
-
 Switching the bedroom light on at 4.30am, selecting coloured pencils, now looking the worse for wear, aged, and some
 colours in need of  replacement, ..drawing briskly and thoughtfully while my brother slept, but was gradually being
 disturbed by my early morning  activity.......is my earliest drawing memory.
@@ -134,20 +126,13 @@ I was just 4 years of age.  Half a century plus later, I still rise at 4 to 4.30
 paint, It's my  favourite time of the day and a peaceful time to explore thought through colour, tone and line.
 Figure drawing happened at home in my spare time, and at school. Drawing was more a part of our day as photocopied
 hand outs were years away.  BP (British Petroleum & COR) colouring books were in vogue in 1956, as were the annual
-Corinella " colour in" books given out to all NSW infants  and primary age students at the years end. Both books
+Corinella "colour in" books given out to all NSW infants  and primary age students at the years end. Both books
 illustrated in Black and White were interesting enough for a while { to look at }, however I found  the idea of
 colouring in other peoples drawings tedious and usually boring ..Illustrating my own school books and drawing my own
-pictures was far  more rewarding, ......and by the age of 9 our grade 4 class was to use " Ink " for writing. My
+pictures was far  more rewarding, ......and by the age of 9 our grade 4 class was to use "Ink" for writing. My
 father was my grade 4 teacher and during this time I used  Indian Ink for illustrating historic scenes in my social
 studies ..This activity I carried through to high school, where illustrating our books almost ceased  by the end of
 form 2 (year 8 in today's school terminology).......................
-
-
-.. image:: images/ldb_05a.png
-   :width: 20%
-   :align: left
-
-
 
 
 (iii)
@@ -157,18 +142,20 @@ Autobiography continued........
 
 
 It was during school holidays between the age of 9 and 14 that I was most creative as a child. I drew scenes from
-daily life, sometimes colouring (most times not), pictures of friends and family.  Most remained as gestural
-uncluttered line images.  When the Cuban dictator Fidel Castro came to power I executed about half a dozen black and white water colour
+daily life, sometimes colouring (most times not), pictures of friends and family.
+Most remained as gestural uncluttered line images.
+When the Cuban dictator Fidel Castro came to power I executed about half a dozen black and white water-colour
 of his portrait........(c. 1960). Magazines of the time displayed his face prominently within their columns. Black
 and White was my medium (age 9) and still is.  During Christmas 1960, my parents and grandparents had special
 friends and their children over for the afternoon. I was copying from an encyclopaedia a portrait of 'Lawrence of
 Arabia 'and each of the 3 children wanted their own copy. Using broad grey lead pencil, I produced 3 passable images
 of Augustus John's portrait of Lawrence.  The drawing was made easier because Lawrence 's dress had tidy folds, belt,
 dagger, and head dress, well organised, .. and framing his angular handsome face blocked in with well defined brush
-strokes, ...relatively comfortable for me  to translate into pencil strokes. I had to work quickly that afternoon, as the guests
-were to leave soon. This was my first memorable experience of multiple copying and working under pressure. I did not
-find the experience threatening or difficult and the friend's children, much my own age were most impressed with
-their gift of " black and white" on imperial cartridge!
+strokes, ...relatively comfortable for me  to translate into pencil strokes. I had to work quickly that afternoon,
+as the guests were to leave soon.
+This was my first memorable experience of multiple copying and working under pressure.
+I did not find the experience threatening or difficult and the friend's children, much my own age were most impressed with
+their gift of "black and white" on imperial cartridge!
 
 
 (iv)
@@ -176,8 +163,8 @@ their gift of " black and white" on imperial cartridge!
 Autobiography continued........
 
 
-I was thrilled to draw portraits of my father for two" end of year " exhibitions at our primary school. However I
-was disappointed that it was called " The Rogues Gallery ", presuming I suppose, that the children would draw
+I was thrilled to draw portraits of my father for two "end of year" exhibitions at our primary school. However I
+was disappointed that it was called "The Rogues Gallery", presuming I suppose, that the children would draw
 pictures of their parents looking aggressive or grim and not so much how they would like to see themselves. The
 portrait I drew using lead pencil of my father for 1962 exhibition revealed a good likeness. He sat for a short time
 for this picture. My primary school class teachers art lessons I remember with warmth and affection. They all
@@ -190,6 +177,19 @@ our then prime minister Robert Menzies to imaginary landscapes....During the Chr
 with the copying of Walt Disney and Hanna-Barbarra cartoons in coloured pencil and faithfully rendered many of their
 character creations in great detail. (no backgrounds), .... and all drawn on the reverse sides of a very large
 calendar.
+
+.. figure:: images/ldb_07b.png
+   :width: 30%
+   :align: center
+
+   Balmain Beach - 1965, (oil painting) inspired by Henry Hanke's Painting - 1945.
+
+.. figure:: images/ldb_07c.png
+   :width: 30%
+   :align: center
+
+   Mill at Provence - 1966, (oil painting) based on a Cezanne.
+
 
 I was not to take art as a subject after form 2 until form 5 when I could see myself becoming an art teacher...,
 but during these middle teenage years I managed to involve myself in translating and interpreting at least 6 works
@@ -221,8 +221,9 @@ but the result (my painting) has neither faded cracked or pealed in all these ye
    :align: right
 
 
-
-
+.. image:: images/ldb_06b.png
+   :width: 50%
+   :align: center
 
 (My Higher School Certificate Painting 1968 ... "Still Life on a marble Table") My time at Teachers College
 (1969-1971) was for training as an Industrial Arts teacher,  with very little opportunity for artistic endeavour...
@@ -297,7 +298,7 @@ College', and among the subjects I selected was Life Drawing....Recollecting my 
 from life models", this was a natural choice. Colin Johnson was our lecturer and instructor  and I believe that
 during the next 4 terms I became a stronger and more creative drawer.........  While Robert Wood was Thorough,
 tentative and less invasive with our attempts to follow his instructions  and suggestions, Colin style and method
-was to direct our " lines, marks and tone with greater  specificity and wilfulness" : drawing the figure for a 2
+was to direct our "lines, marks and tone with greater specificity and willfulness" : drawing the figure for a 2
 minute poses was strictly that..; a "straight line" only  drawing meant just that...I found his approach a little
 abrupt at first, but the benefits came very quickly and my images more certain, powerful, sensitive and gestural.
 Each session with Colin was a new adventure..... in short I became a more skilled and confident "drawer of the
@@ -332,7 +333,11 @@ Drawing world from 1979 to 1997.
 
 Introduction
 ============
-Page 1
+.. Page 1
+
+.. image:: images/ldb_04a.png
+   :width: 25%
+   :align: left
 
 
 The Geelong Art Gallery was continuing to hold Life drawing sessions 10am -12 Midday on
@@ -349,9 +354,13 @@ who were drawing consistently ..,  was a little taken a back by their fluid effo
 and realised I had become a little rusty as well.....More than drawing well proportioned images of
 people, I wished to say something about my expression of them as "Ideas of Soul", ....to infuse
 into each image something more of the "spiritual quality" that we all embody, .......and so during
-this first session I found some others, more skilled, practised, sensitive and advanced than myself.
+this first session I found some others, more skilled, practiced, sensitive and advanced than myself.
 
-In earlier years I had used conte (hard pastel chalks) to create life drawings with dramatic
+.. image:: images/ldb_04b.png
+   :width: 25%
+   :align: right
+
+In earlier years I had used conté (hard pastel chalks) to create life drawings with dramatic
 regions of light and dark....I now wanted to create folios of Life drawings, where each image did
 not require sealing with a fixative and still be able to create broad dark tonal shading with a few
 strokes. Grey lead was the medium I was most comfortable to use on cartridge paper (acid free),
@@ -372,11 +381,15 @@ Figure drawn with 2B/4B grey lead  Figure drawn with 6B block graphite
 pencil/ clutch pencil (graphite)
 
 
-The broad ¨ grey lead " edge allows more rendering and three dimensional depth to be
+The broad "grey lead" edge allows more rendering and three dimensional depth to be
 drawn in the limited period of time that the model poses for, as can be done with
-charcoal, cont 'e, pastel and oil/wax crayon, with the added advantage.....it does not
+charcoal, conté, pastel and oil/wax crayon, with the added advantage.....it does not
 require a fixative and it is relatively smudge free, at least from 2B - 6B hardness.....
 9B graphite is a little more vulnerable to smudging.
+
+.. image:: images/ldb_05a.png
+   :width: 25%
+   :align: right
 
 Perhaps the most obvious drawback with graphite is that a dramatic black/white contrast is less effective.
 
@@ -387,7 +400,7 @@ that the activity of Life Drawing can be more fun and satisfying for the beginne
 to speak....a greater joy...and I have shown others in very small tutored groups that I can be of considerable
 assistance to the novice in life drawing.
 
-Page 2 continued..............
+.. Page 2 continued..............
 
 As with others, my talents and interests have been numerous and my background in drawing, being mainly self taught,
 but for 2 years at 2 colleges practising Life Drawing....
@@ -398,7 +411,7 @@ that I came across the idea and practise of PATTERNING.
 
 ----
 
-Page 3
+.. Page 3
 
 This method of learning is ancient, it goes back to prehistory; and is currently used to programme robots for
 industry; employed to help children...normal, abnormal and those with brain damage; to assist adolescent children
@@ -407,7 +420,7 @@ State College early in 1979 was the "turning" of a small "ink pot" on a potter´
 unable to "centre the clay" .....I was allowing the clay to control me...The lecturer sat behind me, very close,
 touching my body with his, . his arm and fingers on mine as I attempted to centre my piece of clay.  He applied the
 appropriate pressure to my fingers and arm. he was imprinting onto my limbs the force and direction and firmness
-required for this task, all within no more than 2 minutes....This experience of " knowing " through the body,
+required for this task, all within no more than 2 minutes....This experience of "knowing" through the body,
 rather than the intellect has stayed with me.....a salutary lesson through........TOUCH.. ..and..... this method I
 have incorporated into my teaching of Life Drawing.....
 
@@ -416,7 +429,7 @@ have incorporated into my teaching of Life Drawing.....
    :width: 80%
    :align: center
 
-Page 4
+.. Page 4
 
 Another one of my teaching tools is the activity of drawing the model after having seen
 him or her briefly, studying the attitude, gesture, mass and so on ..of the model carefully
@@ -453,8 +466,8 @@ Model reading ..Burwood State College........October 979
 
 
 Since writing the first edition of "The Joy of Life Drawing" in the June of 2009 I have  read Harold Speed's 
-detailed tome on drawing..." The Practice and Science of Drawing¨.  Written in the early 20th Century. This inspired
-piece of instructive literature will give insight and  reassurance to the serious and practised artist, ...and be a
+detailed tome on drawing... "The Practice and Science of Drawing".  Written in the early 20th Century. This inspired
+piece of instructive literature will give insight and  reassurance to the serious and practiced artist, ...and be a
 revelation to the newcomer..  He spoke to my heart, ..I felt I had  met a true friend who understands me.......
 ..........and even the great Harold makes no mention of 'PATTERNING' as a Learning tool.  His book is more about
 'seeing, appreciation and understanding' than the physiology of  "mind to arm to hand training".
@@ -467,7 +480,7 @@ The concept may not have been written  about or discussed widely in his day (pre
 
 ----
 
-Page 4a
+.. Page 4a
 
 The Life Drawing Session
 ========================
@@ -506,7 +519,7 @@ I'm drawing on the A1 or A2 paper...I feel more exuberant with the large canvas 
    :width: 40%
    :align: right
 
-Page 4b
+.. Page 4b
 
 .. image:: images/ldb_14a.png
    :width: 15%
@@ -517,7 +530,7 @@ mentally map out where the drawing will sit in this space...am I able to fit two
 alone?
 
 With the shorter timed poses I sometimes draw 3 figures on the one page, with my A2 folio horizontally located on my
-own easel ....These initial drawings have been called " warm ups " by many teachers, and therefore not seen as
+own easel ....These initial drawings have been called "warm ups" by many teachers, and therefore not seen as
 important... Since I first began Life Drawing I have recognised the beauty these rapidly drawn images often hold for
 myself and others....Other times I fill the whole sheet with a full figure drawing, ...occasionally overlapping the
 images....I encourage the novice to move onto drawing on cartridge paper as soon as possible rather than drawing on inexpensive
@@ -529,8 +542,8 @@ Grey lead, working on a padded surface, be it a cartridge pad or a wad of newspa
 greater subtleties with pencil stokes with less pressure required.
 
 
-Preplanning
------------
+Pre-planning
+------------
 
 For drawing a visually well proportioned drawing of your model
 (one method among many variations)
@@ -543,13 +556,13 @@ pose, the more ground work one may do. With experience, the  groundwork will com
 your intent.....so .....  .....Step 1...Place pad or paper on the easel ...appropriate to the pose  2 ....Locate 3,
 4 or 5 points on your paper, representing the outer limits of the  drawing of your model. Keep a centimetre or 2
 away for the edge of your  paper to allow for framing.  1. Establish your reference points (R P's) for instance
-nipples, knees, tips of fingers, toes, nose,  naval, chin and so on., oving your whole arm  and back again, until
+nipples, knees, tips of fingers, toes, nose,  naval, chin and so on, moving your whole arm  and back again, until
 these (R P's) match the proportions of the figure you are  drawing. If you are unhappy with your location, feel free
 to move elsewhere in the  room for better view.....
 
 ----
 
-Page 4c
+.. Page 4c
 
 ..
   .. raw:: latex \newpage
@@ -599,7 +612,7 @@ Life Drawing Sessions
 
 Session 1: Straight Lined figure
 --------------------------------
-Page 5
+.. Page 5
 
 .. image:: images/ldb_16a.png
    :width: 50%
@@ -630,13 +643,13 @@ Flat Plane Drawing of Seated Model
 20 minute pose August 1979.
 Tonal regions of rendered planes 'ground' the model into her surrounds.
 
-Page 6
+.. Page 6
 
 ----
 
 Life Drawing Session 2: Positive and Negative Space
 ---------------------------------------------------
-Page 7
+.. Page 7
 
 *Life Drawing-Describing Drawing*
 
@@ -647,7 +660,7 @@ the page, ...continuous movement of my arm from my shoulder to my fingers, ...my
 surface features and spaces...judging distances between limbs, the violin and bow, all the time checking for
 proportion and accuracy in this exercise...This aspect of drawing for proportion, may take 5 to 10 minutes of a 20
 minute sitting. Time for me ceased with this intense involvement and our group was given no warning that the pose
-had only 5 minutes left. This was an error on the part of the life drawing co ordinater.
+had only 5 minutes left. This was an error on the part of the life drawing coordinator.
 
 .. image:: images/ldb_18a.png
    :width: 80%
@@ -659,7 +672,7 @@ had only 5 minutes left. This was an error on the part of the life drawing co or
    :width: 80%
    :align: center
 
-Page 8 Life Drawing Session 2 continued.....Positive and Negative Space.
+.. Page 8
 
 The term 'positive and negative space' means to "block in" (shade or render) the space around the figure, rather
 than draw the figure with line work ie the spaces and shapes around our model are rendered here with as much
@@ -674,7 +687,7 @@ graphite block, and applying pressure on one edge of the block to create dark to
 Session 3: Continuous Loose Line Image
 --------------------------------------
 
-Page 9
+.. Page 9
 
 .. image:: images/ldb_21a.png
    :width: 40%
@@ -684,7 +697,7 @@ The continuous loose line image can be a very relaxing experience, as no single 
 defines either the edge of the sitters form or its features. Indeed body mass may be built up by drawing the line
 continuously within a confined space. I have sometimes used the 'continuous line 'approach when I have felt less
 confident about my ability to portray the model in an interesting way..These occasions have happened during evenings
-when I have felt tired and less ¨with it".
+when I have felt tired and less "with it".
 
 .. image:: images/ldb_20a.png
    :width: 30%
@@ -702,7 +715,7 @@ am using the pointy end of my graphite stick.
 
 Taking our line for a walk
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
-Page 10....
+.. Page 10
 
 to create a loose line image of John for this
 5 minute pose....9th October 2008
@@ -711,7 +724,7 @@ to create a loose line image of John for this
 
 Session 4: Contour Life Drawing
 --------------------------------
-Page 11
+.. Page 11
 
 In the contour line drawing shown here of 5 minutes duration, the soft form of the male model envelops our 6 month
 old daughter, allowing my wife to do some drawing. Four of us sat in a modest living room in Box Hill, carpeted
@@ -737,7 +750,7 @@ Seated Model and our daughter......May 1980
 
 
 
-Page 12
+.. Page 12
 
 These three loose lined ' Contour drawings ' were carried out with 2B staedler pencil...
 My focus was on the relaxed bodily and facial expressions of the the model.
@@ -751,7 +764,7 @@ My focus was on the relaxed bodily and facial expressions of the the model.
 
 Session 5: Thrill of the One Minute Pose
 ----------------------------------------
-Page 13
+.. Page 13
 
 
 The one or two minute pose by our model gives us an opportunity to work quickly, with less time to ponder. To find
@@ -759,7 +772,7 @@ satisfaction with this experience means feeling free and loose within ourselves,
 across our paper rapidly, to mark out meaningful gestural contours, bold lines, shadowed limbs, ......a generalised
 figure with very little detail, but with lots of hootspah !.... You may prefer to focus your whole time detailing,
 the eye, ear, hand or foot etc...as an individual study.....improving and honing your skills in 'body art
-'detailing....or using ink, pen or brush, evolve gestural washes on watercolour paper....
+'detailing....or using ink, pen or brush, evolve gestural washes on water-colour paper....
 
 
 .. figure:: images/ldb_24a.png
@@ -771,7 +784,7 @@ the eye, ear, hand or foot etc...as an individual study.....improving and honing
 
 ----
 
-Page 14.....
+.. Page 14
 
 .. figure:: images/ldb_25a.png
    :width: 80%
@@ -788,7 +801,7 @@ Page 14.....
    :width: 80%
    :align: center
 
-   Page 15 Life Drawing Session 5.  Three 1 Minute poses of 'Sa' and 'Se' modelling.
+.. Page 15 Life Drawing Session 5.  Three 1 Minute poses of 'Sa' and 'Se' modelling.
 
 .. figure:: images/ldb_26b.png
    :width: 80%
@@ -798,7 +811,7 @@ Page 14.....
    :width: 80%
    :align: center
 
-Page 16
+.. Page 16
 
    Life Drawing Session 5 ... continued. Three 1 Minute poses of 'Chrys' and 'Fi' modelling
 
@@ -809,46 +822,47 @@ Page 16
 
 Session 6: The Five Minute Pose
 --------------------------------
-Page 17
+.. Page 17
 
 
-.. image:: images/ldb_28a.png
+.. figure:: images/ldb_28a.png
    :width: 80%
    :align: center
 
-.. image:: images/ldb_29a.png
+   Three 5 Minute poses....’Gi’, ‘Ma’, and ‘Fi’, modelling.
+
+.. Page 18
+
+.. figure:: images/ldb_29a.png
    :width: 80%
    :align: center
 
-
-Three 5 Minute poses....'Gi', 'Ma', and 'Fi', modelling.
-
-Page 18 Life drawing Session 6 ....The Five Minute pose...
-Two Five Minute poses....'Gi' modelling.
+   Two Five Minute poses....'Gi' modelling.
 
 
 Session 7: Gestural Man - 'Ed' modelling
----------------------------------------
-Page 19
+----------------------------------------
+.. Page 19
 
 
 .. image:: images/ldb_30a.png
-   :width: 40%
+   :width: 30%
    :align: left
+
+'Ed'.....5 minute pose.........Sept 2004
 
 Using the broad edge of the Graphite Block, and applying pressure to one end more than the other, I travelled around
 my model's form using broad 'dark to light strokes'. These sweeps of my wrist were considered, not anxiously
 hurried. Outlines were drawn in afterwards...., were left loose, general, and essentially gestural, an abbreviated
 contour, and deliberately incomplete.
 
-Because the model ('Ed' illustrated below) was in a crouching position, the whole form was encapsulated easily during this 5 minute pose.
-
-'Ed'.....5 minute pose.........Sept 2004
+Because the model ('Ed' illustrated below) was in a crouching position,
+the whole form was encapsulated easily during this 5 minute pose.
 
 
 Session 8: Gestural Woman - 'Ails' Modelling
-------------------------------------------
-Page 20
+--------------------------------------------
+.. Page 20
 
 .. image:: images/ldb_31.png
    :width: 40%
@@ -861,7 +875,7 @@ minutes given.
 
  'Ails'......5 minute pose.......September 2004
 
-Page 21
+.. Page 21
 
 .. figure:: images/ldb_32a.png
    :width: 80%
@@ -869,7 +883,7 @@ Page 21
 
    Session 8 continued... Gestural Woman using ' loose line' technique. Three Illustrations........modelling 10 minute poses ...2009
 
-Page 22
+.. Page 22
 
 .. figure:: images/ldb_33a.png
    :width: 80%
@@ -881,7 +895,7 @@ Page 22
 
 Session 9: 'Tone only' Drawing
 --------------------------------
-Page 23
+.. Page 23
 
 #. Using the edge of my graphite block (broad edge, not pointy end, I worked from the centre (spine) outwards).
 #. Beginning at the hips, I created a contour of the body, working away from the edge to create background tone, still using the broad edge of my graphite block.
@@ -897,7 +911,7 @@ Page 23
 
 #. 'Falling Asleep'.... 'Deb' modelling .. Nov 2002
 
-Page 24
+.. Page 24
 
 ...More examples of tone only drawing......
 
@@ -907,7 +921,7 @@ Page 24
 
 Session 10: 'Background as Important as the Model'
 --------------------------------------------------
-Page 25
+.. Page 25
 
 The Images depicted here were all carried out during 20 minutes sessions using broad edged graphite...between 1998
 and 2005 . During this period I was interested to see the texture of the paper revealed through the graphite,
@@ -922,7 +936,7 @@ Fig 1......'Chrys Seated.'...........July 1998.........20 minute pose
 
 Fig 2......'Deb K Seated'...........June 2005.........20 minute pose
 
-Page 26 .....continued.....Background as Important as the Model.
+.. Page 26 .....continued.....Background as Important as the Model.
 
 .. image:: images/ldb_36a.png
    :width: 80%
@@ -932,7 +946,7 @@ Fig 3......'Si Seated'.................August 1998.......20 minute pose
 
 Fig 4.....'Chrys Seated'.............July 1998.........20 minute pose
 
-Page 27....continued ....Background as Important as the Model.
+.. Page 27....continued ....Background as Important as the Model.
 
 
 
@@ -944,7 +958,7 @@ Fig 5.....'Mar Seated ' (rear view).....October 1998.....20 minute pose
 
 Fig 6....'Si Seated'..........................September 1998....20 minute pose
 
-Page 28....continued.....Background as Important as the Model.
+.. Page 28....continued.....Background as Important as the Model.
 
 .. image:: images/ldb_38a.png
    :width: 80%
@@ -962,7 +976,7 @@ Fig 8.....'Chrys Asleep at the Gallery.'..August 2000 .........20 minute pose
 
 Session 11: 'The Portrait' - upper body, face, bust with arms
 -------------------------------------------------------------
-Page 29
+.. Page 29
 
 Occasionally I will draw a portrait during a 5 minute pose, but mostly I wait
 for a 10, 15, or 20 minute pose to come around to attempt a face, ...and or upper body drawing.
@@ -1008,7 +1022,7 @@ Page.... 33
 The Drama of light and dark regions, defining the posture, form and mood of our model, may be elevated with the use
 of lamps set up to cast light and shadow where we see fit.
 
-Where natural daylight falls across our model, shadows cast are essentially ¨soft¨ with indoor poses, until a little
+Where natural daylight falls across our model, shadows cast are essentially "soft" with indoor poses, until a little
 after midday.. (sunlight reaching the model through a windowed room).. An afternoon sun from the west may give
 clear, well defined shadows within the for of our model, and where the sitting is for longer than 10 minutes, the
 shadow will certainly change and artificial light may be required. On a personal note: For the 20 minutes or longer
@@ -1017,13 +1031,13 @@ setting sun.
 
 'Portrait of Angi '.. October 2007 ..... 20 minute pose...
 
-Page 34
+.. Page 34
 
 .. figure:: images/ldb_44a.png
    :width: 80%
    :align: center
 
- Pastel on Canson paper....25 minute pose...26th Aug 1980
+   Pastel on Canson paper....25 minute pose...26th Aug 1980
    Robert Avitable's Drawing Group...South Yarra.
 
 
@@ -1034,7 +1048,7 @@ Session 13: Building the Man
    :width: 40%
    :align: right
 
-Page 35
+.. Page 35
 
 'Mal' has a very muscular body, works out, and so I would describe his body as "chunky",
 and like many men his muscularity is revealed in a bumpy form.
@@ -1059,16 +1073,18 @@ same direction build up his form and are a useful device to bring our model's  f
    :width: 50%
    :align: right
 
-.. image:: images/ldb_46c.png
+.. figure:: images/ldb_46c.png
    :width: 60%
    :align: left
 
-Page 36......Building the Man.....'Mal' in various poses ....June 2006
+   Building the Man.....'Mal' in various poses ....June 2006
+   
+
+.. Page 36
+
 6B Graphite Block
 
-----
-
-Page 37
+.. Page 37
 
 .. figure:: images/ldb_47a.png
    :width: 80%
@@ -1078,7 +1094,7 @@ Page 37
    6B Graphite Block
 
 
-Page 38
+.. Page 38
 
 .. figure:: images/ldb_48a.png
    :width: 80%
@@ -1092,13 +1108,13 @@ Page 38
 
 ----
 
-Page 39
+.. Page 39
 
 Session 14: Famous Poses in Art History
 ---------------------------------------
 
 Using famous artwork from the past, our life drawing session may be an occasion for us to move into the drivers
-seat of ¨past greats¨.We are at least confronted with some of the issues that they faced such as : proportion,
+seat of "past greats". We are at least confronted with some of the issues that they faced such as : proportion,
 filling in space and giving Gesture, Feeling and Drama to our model and His/ Her Surrounds. The examples shown
 below and on page 40 were executed using 6B Graphite block.
 
@@ -1127,25 +1143,17 @@ below and on page 40 were executed using 6B Graphite block.
    :align: center
 
 
-Fig 1. Vetruvian Man... by Leonard da Vinci Fig. 2. Vetruvian Man....by John Barton...10 minute pose February 2009
+.. Page 40
 
-Fig. 3. "The Thinker "...... by John Barton ..20 minute pose...February 2009 Fig. 4. The Thinker .......by Auguste Rodin
+.. Page 41
 
-
-Page 40
-Fig 1 David.....by John Barton February 2009.....15 minute pose.
-
-Fig 2 David.....by Michaelangelo
-
-
-Page 41
 
 Session 15: Dramatic Distortion
 --------------------------------
 
 Possibilities: 1) Worm'sye view 2) Intentional Distortion
 
-3) Ariel View 4) UnintentionalDistortion
+3) Ariel View 4) Unintentional Distortion
 
 
 .. image:: images/ldb_51a.png
@@ -1164,43 +1172,42 @@ Illusion. I prefer to work it out myself with a more creative Spirit.
 
 Seated Pose ...Worms Eye View of our Model.....10 minutes April 1982
 
-Page 42.....Dramatic Distortion continues....
+.. Page 42
 
 
-.. image:: images/ldb_52a.png
+.. figure:: images/ldb_52a.png
    :width: 60%
    :align: center
 
-Fig. a....A Worm'sye view allows us to 'lard arse', our model, distortion is 'free form' here.....April 1982....10 minute pose
+   Fig. a....A Worm's eye view allows us to 'lard arse', our model, distortion is 'free form' here.....April 1982....10 minute pose
 
-.. image:: images/ldb_52b.png
+.. figure:: images/ldb_52b.png
    :width: 50%
    :align: center
 
-Fig. b....The elongation of the models form....her slender legs flowing towards us is'rhythmic'and calming to the eye.
+   Fig. b....The elongation of the models form....her slender legs flowing towards us is'rhythmic'and calming to the eye.
 
 Meg ....10 minute pose.September 2007
 
-.. image:: images/ldb_52c.png
+.. figure:: images/ldb_52c.png
    :width: 40%
    :align: center
 
+   Fig. c ...Although I was looking up to the elevated model...the severe distortion achieved her was not intentional...a very
+   powerful drawing .....20 minute pose...March 2009
 
-Fig. c ...Although I was looking up to the elevated model...the severe distortion achieved her was not intentional...a very
-powerful drawing .....20 minute pose...March 2009
-
-.. image:: images/ldb_52d.png
+.. figure:: images/ldb_52d.png
    :width: 80%
    :align: center
 
-Fig. d....Subtle Exaggeration.....Hips and Thighs...not consciously enlarged..a little wider than would be revealed
-by the camera.... Smaller heads and larger hips to me look more attractive than the reverse in my world....20 minute
-pose..October 2007
+   Fig. d....Subtle Exaggeration.....Hips and Thighs...not consciously enlarged..a little wider than would be revealed
+   by the camera.... Smaller heads and larger hips to me look more attractive than the reverse in my world....20 minute
+   pose..October 2007
 
 
 Session 16: The Abstracted and Stylised Figure
 ----------------------------------------------
-Page 43
+.. Page 43
 
 I used the broad edge of my Graphite Block working from the "Outside - In", keeping my edges (on the drawing)
 sharp, linking body parts where convenient, finding almost geometric shapes here and there, with only a touch of
@@ -1215,9 +1222,7 @@ contour to the arm and chin. This Drawing experience of 20 minutes was most rewa
 'Pa' reclining...5 minute pose.....2005
 
 
-
-
-Page 44 ...The Abstracted and Stylised Figure .... continued.....
+.. Page 44
 
 
 .. image:: images/ldb_54a.png
@@ -1236,7 +1241,7 @@ Fig. 3. 'Te'........Seated Pose ....April 2009.... also of 5 minutes duration.
    :width: 60%
    :align: center
 
-Page 45
+.. Page 45
 
 , , , The Abstracted and Stylised Figure...... continued.....
 
@@ -1258,16 +1263,16 @@ Fig. 5 ...'Sa' ..Rear view, Reclining..10 minute pose.....2000
 
 
 
-Page 46......The Abstracted and Stylised Figure.....continued.....
+.. Page 46
 
 Fig. 6...'.Chrys'.."Shame "... Standing Pose of 5 minutes duration ...June 2000.
 
-Fig. 7...'Chrys'... " Asleep " Laying on her back pose of 20 minutes duration ...June 2000.
+Fig. 7...'Chrys'... "Asleep" Laying on her back pose of 20 minutes duration ...June 2000.
 
 
 Session 17: Abstraction - "Tonal Figure with Background"
 --------------------------------------------------------
-Page 47
+.. Page 47
 
 Refer to Figure 1..I defined the Figure with Broad Strokes, ...outlined the Head, Crotch, Feet...., moved to the
 Centre......Inside of Legs, Bosoms, generalised Hands, Facial Features, .....adding Tone along the way.
@@ -1282,7 +1287,7 @@ darker and lighter regions blending together.....an evolving poetry of form.....
 'Pa' .......seated pose of 20 minutes duration......February 2006
 
 
-Page 48.........Abstraction.............Tonal Figure with Background ......continued..... -
+.. Page 48
 
 .. image:: images/ldb_58a.png
    :width: 40%
@@ -1291,7 +1296,7 @@ Page 48.........Abstraction.............Tonal Figure with Background ......conti
 'Rob'...........Standing pose of 10 minutes duration.
 
 
-Page 49
+.. Page 49
 
 Session 18: Violins, Hats and Other Props
 -----------------------------------------
@@ -1310,7 +1315,7 @@ peaceful scene.
 Fig . 1. 'Johan with Violin'...... Graphite only......January 2001
 
 
-Page 50
+.. Page 50
 
 ........Other Props.....Head Scarf, Walking Cane, and Trolley.........................
 
@@ -1332,47 +1337,45 @@ Fig. 2....'Chrys with Cane'.....................................5 minute pose...
 Fig. 3....'Chrys with trolley'.....................................5...minute pose......6B Graphite..........1998
 
 
+
 Session 19: The Two Models Sitting
 ----------------------------------
-Page 51
 
-.. image:: images/ldb_61a.png
+.. Page 51
+
+This is a series of 20 minute poses that show overlapping models.
+
+.. figure:: images/ldb_61a.png
    :width: 40%
    :align: center
 
-Fig 1.....'Mel and Ed Reclining'........2 x 20 sittings....Drawing in 6B Graphite......May 2003
+   Fig 1.....'Mel and Ed Reclining'........2 x 20 sittings....Drawing in 6B Graphite......May 2003
 
-.. image:: images/ldb_61b.png
+.. figure:: images/ldb_61b.png
    :width: 40%
    :align: center
 
-Fig. 2....'Mel and Ed' ..Both standing......20 minute pose..Drawing in 6B Graphite May 2009
+   Fig. 2....'Mel and Ed' ..Both standing......20 minute pose..Drawing in 6B Graphite May 2009
 
-.. image:: images/ldb_61c.png
+.. figure:: images/ldb_61c.png
    :width: 40%
    :align: center
 
-.. image:: images/ldb_62a.png
+   Fig. 3....'Mel and Ed', Seated and reclining....20 minute pose..Drawing in 6B Graphite May 2009
+
+.. figure:: images/ldb_62a.png
    :width: 40%
    :align: center
 
-Fig. 3....'Mel and Ed' ..Seated and reclining....20 minute pose..Drawing in 6B Graphite May 2009
+   'The Two Model Sitting', 'Look who's over there' ....'Two Seated Teenage Girl'...20 Minute pose
+   9th December 2000 ...6B Graphite Block
 
-.. image:: images/ldb_61c.png
-   :width: 40%
-   :align: center
-
-.. image:: images/ldb_62a.png
-   :width: 40%
-   :align: center
-
-Page 52..'The Two Model Sitting'.....continued....' Look who's over there' ....'Two Seated Teenage Girl'...20 Minute pose
-9th December 2000 ...6B Graphite Block
+.. Page 52
 
 
 Session 20: Model in Motion
 ---------------------------
-Page 53
+.. Page 53
 
 *Drawing the Moving Figure and other themes*
 
@@ -1389,12 +1392,14 @@ iii) Hobbies................ Such as : Chiselling, sawing, planing timber, hamme
 iv) Dance ...................Such as Ballet, Waltz, Jive, etc...Yoga, Pilates, Gymnastics.
 
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX IMAGE MISSING XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+.. image:: images/ldb_63a.png
+   :width: 60%
+   :align: center
 
 
 'Si' ...Twirling......Original....6B Graphite Block....5 minute pose...22nd Aug 1998
 
-Page 54
+.. Page 54
 
 .. figure:: images/ldb_64a.png
    :width: 80%
@@ -1404,7 +1409,7 @@ Page 54
 
 Session 21: The 60 Minute Sitting
 ---------------------------------
-Page 55...
+.. Page 55
 
 The approach I took with the 60 minute sitting drawing illustrated here , was to use the broad edge of my 6B
 Graphite Block and rapidly tone the region of the models shape, with much of the time looking at the model while I
@@ -1416,8 +1421,8 @@ his perimeter with rapid, careful and almost straight edged lines, ......then gr
 features, delineating each body part with the point of the pencil only.  Now picking up my 6B Graphite Block I shade
 his chest, legs, and arms, ..building up his form,  all with a little more pressure on the broad edge of the
 Graphite block.  I then went back to the face to define its features with greater accuracy and subtlety....hmmmn...
-7 minutes to go.....Using a needable rubber (eraser),  I remove some of the graphite (soft tonal base), to bring
-forward his features..., soft lighted cheeks, and shoulders to hilight his presence...a few minutes left..., I
+7 minutes to go.....Using a kneadable eraser,  I remove some of the graphite (soft tonal base), to bring
+forward his features..., soft lighted cheeks, and shoulders to highlight his presence...a few minutes left..., I
 outline his feet, adequately proportioned... Oh dear, times up....but I have worked vigorously and joyfully for a
 full 60 minutes..  Although confident, I experienced a few moments of anxiety and caution, but essentially the
 experience was an uplifting adventure.
@@ -1427,10 +1432,13 @@ experience was an uplifting adventure.
    :align: center
 
 
-Page 56 ....60 minute Seated pose ...'The Conversation'...Vaughan modelling..(6B Graphite block and 2B 0.9mm dia clutch pencil) 18th Oct 2010...
+.. Page 56
 
 
-Page 57.....
+....60 minute Seated pose ...'The Conversation'...Vaughan modelling..(6B Graphite block and 2B 0.9mm dia clutch pencil) 18th Oct 2010...
+
+
+.. Page 57
 
 Picture Gallery
 ===============
@@ -1442,7 +1450,7 @@ Picture Gallery
 
 'A Contemplative Seated Mary G.' fully clothed......Mid 2008 ....40 minute sitting...6B Graphite Block / 2B Pencil
 
-Page 58....
+.. Page 58
 
 Picture Gallery
 
@@ -1458,7 +1466,7 @@ Picture Gallery
    :width: 100%
    :align: center
 
-Page 59.... Picture Gallery
+.. Page 59
 
 'Bob'.... Upper body Detail only....20 minute pose ...19th June 1999 Medium: 6B Graphite Block
 
@@ -1476,7 +1484,7 @@ Page 59.... Picture Gallery
 
 'Em'......Head detail ...fully reclined.....20 minute pose.....Medium: 6B Graphite Block
 
-Page 60.... Picture Gallery
+.. Page 60
 
 .. image:: images/ldb_72a.png
    :width: 100%
@@ -1486,7 +1494,7 @@ Page 60.... Picture Gallery
    :width: 100%
    :align: center
 
-Page 61.... Picture Gallery
+.. Page 61
 
 .. image:: images/ldb_73a.png
    :width: 100%
@@ -1503,14 +1511,14 @@ Page 61.... Picture Gallery
 
 ----
 
+.. Page 62
 
-Page 62 .... Picture Gallery... cont.
 'Ze'.... Portrait of 'Ze' ...20 minute pose  :   6B Graphite Block
 
 'Reg'.... Seated pose ...5 minute pose ..Exaggeration for affect :    6B Graphite Block
 
 
-Page 63...Picture Gallery
+.. Page 63
 
 'Psy'.... 20 minute 6B Graphite Block Portrait
 
