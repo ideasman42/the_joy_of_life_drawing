@@ -9,3 +9,6 @@ pdf:
 
 clean:
 	rm -rf html
+
+jpg:
+	mogrify -background white -layers flatten -format jpg images/*.png
