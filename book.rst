@@ -1454,13 +1454,19 @@ Picture Gallery
 
 Picture Gallery
 
-.. image:: images/ldb_68a.png
+.. figure:: images/ldb_68a.png
    :width: 100%
    :align: center
 
-'Mal'....20 minute seated pose....2006 ...Medium: 6B Graphite Block
+   'An elongated Steve' ...10 minute seated pose...April 2009... Medium: 6B Graphite Block.
 
-'An elongated Steve' ...10 minute seated pose...April 2009... Medium: 6B Graphite Block.
+
+.. figure:: images/ldb_68b.png
+   :width: 100%
+   :align: center
+
+   'Mal'....20 minute seated pose....2006 ...Medium: 6B Graphite Block
+
 
 .. image:: images/ldb_69a.png
    :width: 100%
@@ -1468,27 +1474,31 @@ Picture Gallery
 
 .. Page 59
 
-'Bob'.... Upper body Detail only....20 minute pose ...19th June 1999 Medium: 6B Graphite Block
+*Upper Left*: 'Bob'.... Upper body Detail only....20 minute pose ...19th June 1999 Medium: 6B Graphite Block.
 
-'Ed'.... Upper Body Detail 0nly....10 minute pose ...9th October 2005. Medium: 6B Graphite Block
+*Lower Right* 'Ed'.... Upper Body Detail 0nly....10 minute pose ...9th October 2005. Medium: 6B Graphite Block.
 
-.. image:: images/ldb_70a.png
+.. figure:: images/ldb_70a.png
    :width: 100%
    :align: center
 
-'Meg'.....Three quarter rear view....... 20 minute pose....... Medium: 6B Graphite Block
+   *Above* 'Em'......Head detail ...fully reclined.....20 minute pose.....Medium: 6B Graphite Block.
+
+   *Top Right* 'Meg'.....Three quarter rear view....... 20 minute pose....... Medium: 6B Graphite Block.
 
 .. image:: images/ldb_71a.png
    :width: 100%
    :align: center
 
-'Em'......Head detail ...fully reclined.....20 minute pose.....Medium: 6B Graphite Block
 
 .. Page 60
 
-.. image:: images/ldb_72a.png
+.. figure:: images/ldb_72a.png
    :width: 100%
    :align: center
+
+   'Ze' 20 minute pose
+
 
 .. image:: images/ldb_72b.png
    :width: 100%
@@ -1496,37 +1506,24 @@ Picture Gallery
 
 .. Page 61
 
-.. image:: images/ldb_73a.png
+.. figure:: images/ldb_73a.png
    :width: 100%
    :align: center
 
-'Reg'... Bust portrait, looking down....20 minute pose.....  2009 Medium : 6B Graphite Block
+   'Ze'.... Beautiful Dream...................20 minute pose.....  Medium : 6B Graphite Block
 
-
-.. image:: images/ldb_74a.png
+.. figure:: images/ldb_74a.png
    :width: 100%
    :align: center
 
-'Ze'.... Beautiful Dream...................20 minute pose.....  Medium : 6B Graphite Block
+   'Reg'... Bust portrait, looking down....20 minute pose.....  2009 Medium : 6B Graphite Block
+
 
 ----
 
 .. Page 62
 
-'Ze'.... Portrait of 'Ze' ...20 minute pose  :   6B Graphite Block
-
-'Reg'.... Seated pose ...5 minute pose ..Exaggeration for affect :    6B Graphite Block
-
-
 .. Page 63
-
-'Psy'.... 20 minute 6B Graphite Block Portrait
-
-'Ze'.... Reclining Pose ...20 minute pose Medium : 6B Graphite Block-
-
-
-
-----
 
 Picture Gallery (Others)
 ========================
